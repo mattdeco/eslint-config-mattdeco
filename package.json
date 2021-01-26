@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mattdeco",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal, opinionated ESLint config and related tooling",
   "main": "index.js",
   "repository": "https://github.com/mattdeco/eslint-config-mattdeco.git",
