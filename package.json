@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-mattdeco",
+  "version": "1.0.0",
+  "description": "Personal, opinionated ESLint config and related tooling",
+  "main": "index.js",
+  "repository": "https://github.com/mattdeco/eslint-config-mattdeco.git",
+  "author": "Matt Rosenzweig <m@tripleoptic.net>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "prettier": "^2.2.1"
+  },
+  "peerDependencies": {
+    "eslint": "^7.18.0",
+    "prettier": "^2.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0"
+  }
+}
